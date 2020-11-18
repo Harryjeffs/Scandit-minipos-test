@@ -1,0 +1,20 @@
+PODS:
+  - ScanditBarcodeCapture (6.5.2):
+    - ScanditCaptureCore (= 6.5.2)
+  - ScanditCaptureCore (6.5.2)
+
+DEPENDENCIES:
+  - ScanditBarcodeCapture
+
+SPEC REPOS:
+  trunk:
+    - ScanditBarcodeCapture
+    - ScanditCaptureCore
+
+SPEC CHECKSUMS:
+  ScanditBarcodeCapture: edc436590d29f3c69a364c92c39323f093308c77
+  ScanditCaptureCore: d2d9d80610aa7c9d2bdfd823f951fc89caa93551
+
+PODFILE CHECKSUM: 9aac304df25fada8a50651b041b2fff138ffa66b
+
+COCOAPODS: 1.9.3
